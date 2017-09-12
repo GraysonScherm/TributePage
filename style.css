@@ -1,0 +1,66 @@
+body {
+    font-family: 'Signika';font-size: 15px;    
+}
+
+.main {
+    background-color: #534949;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4.5em;    
+}
+
+h2 {
+    text-align: center;
+}
+
+inner {
+    text-align: center;    
+}
+
+intro {
+    float: right;
+}
+
+header a {
+    color: #514A4A;
+}
+
+header a:hover {
+    color: #878484;
+}
+
+header div .left {
+    width: 50%;
+}
+
+header .icon {
+    padding-left: 10px;
+    float: left;
+    width: 50px;
+    padding-top: 5px;
+    border-radius: 8px;
+} 
+
+.container .main .inner {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.container .img {
+    border: 1px solid #7B7777;
+    border-radius: 2px;
+    padding: 2px;
+    background-color: #7F7A7A;
+    width: 50%;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
