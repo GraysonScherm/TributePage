@@ -64,3 +64,9 @@ header .icon {
 img {
     width: 100%;
 }
+
+imgLeft {
+    padding-top: 60px;
+    float: left;
+}
+
