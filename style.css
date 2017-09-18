@@ -1,5 +1,6 @@
 body {
     font-family: 'Signika';font-size: 15px;    
+    background-color: #7F7A7A;    
 }
 
 .main {
@@ -70,3 +71,6 @@ imgLeft {
     float: left;
 }
 
+footer {
+    text-align: center;
+}
